@@ -1,6 +1,8 @@
+
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
+# something slightly different
 dpi = 80
 fig = plt.figure(figsize=(4, 1.6),dpi=dpi)
 
